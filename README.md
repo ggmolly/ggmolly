@@ -17,3 +17,7 @@
 |           C#          |   Redis   |   JavaScript  | Python (Flask / Bottle) |
 |          Java         |           |     Svelte    |                         |
 |          Rust         |           |     jQuery    |                         |
+
+## 📧 Contact me
+
+- E-mail : [molly@mana.rip](mailto:molly@mana.rip)

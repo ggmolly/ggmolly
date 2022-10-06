@@ -6,6 +6,8 @@
 
 - Currently studying at [42 Paris](https://42.fr/)
 
+- Pronouns : she/him
+
 ## 🤹 Global Skills
 
 | Software Developement | Databases | Web Front-end |       Web Back-end      |

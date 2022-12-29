@@ -6,7 +6,7 @@
 
 - Currently studying at [42 Paris](https://42.fr/)
 
-- Pronouns : she/him
+- Pronouns : she/he
 
 ## 🤹 Global Skills
 

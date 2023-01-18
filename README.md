@@ -1,4 +1,4 @@
-# Molly / Jonas — [Nuttyb0il](https://github.com/Nuttyb0il)
+# Molly — [BetterCallMolly](https://github.com/BetterCallMolly)
 
 ## 💬 About me
 

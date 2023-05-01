@@ -6,17 +6,17 @@
 
 - Currently studying at [42 Paris](https://42.fr/)
 
-- Pronouns : she/he
-
 ## 🤹 Global Skills
 
-| Software Developement | Databases | Web Front-end |       Web Back-end      |
-|:---------------------:|:---------:|:-------------:|:-----------------------:|
-|         Golang        |   MySQL   |      HTML     |       Golang (Gin)      |
-|         Python        |  MongoDB  |      CSS      |        C# (Razor)       |
-|           C#          |   Redis   |   JavaScript  | Python (Flask / Bottle) |
-|          Java         |           |     Svelte    |                         |
-|          Rust         |           |     jQuery    |                         |
+| Software Developement | Databases | Web Front-end |       Web Back-end      | Frameworks / Libraries        |
+|:---------------------:|:---------:|:-------------:|:-----------------------:|:-----------------------------:|
+| Golang                | MySQL     | HTML          | Golang (Gin)            | OpenCV                        |
+| Python                | Redis     | CSS           | C# (Razor)              | Prisma                        |
+| C                     | MongoDB   | TypeScript    | Python (Flask / Bottle) | ImGui                         |
+| C++                   |           | Next.js       | Socket.io               | TensorFlow (learning)         |
+| C#                    |           | JavaScript    |                         | LibTorch / PyTorch (learning) |
+| Java                  |           | jQuery        |                         | NextUI                        |
+| Rust                  |           |               |                         | Tailwind                      |
 
 ## 📧 Contact me
 

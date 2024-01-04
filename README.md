@@ -1,4 +1,4 @@
-# Molly — [BetterCallMolly](https://github.com/BetterCallMolly)
+# Molly — [ggmolly](https://github.com/ggmolly)
 
 ## 💬 About me
 
@@ -16,7 +16,8 @@
 | C++                   |           | Next.js       | Socket.io               | TensorFlow (learning)         |
 | C#                    |           | JavaScript    |                         | LibTorch / PyTorch (learning) |
 | Java                  |           | jQuery        |                         | NextUI                        |
-| Rust                  |           |               |                         | Tailwind                      |
+| Rust                  |           | HTMX          |                         | Tailwind                      |
+|                       |           |               |                         | daisyUI                       |
 
 ## 📧 Contact me
 

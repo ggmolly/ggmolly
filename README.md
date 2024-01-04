@@ -2,7 +2,7 @@
 
 ## 💬 About me
 
-- 2 years ago I became an amateur data-hoarder and started to train neural-networks for fun.
+- 4 years ago I became an amateur data-hoarder and started to train neural-networks for fun.
 
 - Currently studying at [42 Paris](https://42.fr/)
 

@@ -7,7 +7,6 @@
 ## contact me
 
 - e-mail: [molly@molly.sh](mailto:molly@molly.sh)
-- professionnal inquiries:
 
 ## pgp
 

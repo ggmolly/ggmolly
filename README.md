@@ -2,7 +2,6 @@
 
 - studied @ 42 Paris
 - golang / c / c++ enjoyer
-- cybersec audits/pentests: https://quintessence.sh
 
 ## contact me
 
